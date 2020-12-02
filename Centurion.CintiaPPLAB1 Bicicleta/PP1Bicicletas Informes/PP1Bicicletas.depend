@@ -1,0 +1,1461 @@
+# depslib dependency file v1.0
+1602951225 source:c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+
+1602951225 c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\color.h
+
+1602951225 c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\tipo.h
+
+1602963057 source:c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+
+1603051700 source:c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+
+1602951250 c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1602951319 c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\datastore.h
+
+1603056191 source:c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"trabajo.h"
+	"servicio.h"
+
+1602959135 source:c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+
+1603050758 c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\servicio.h
+
+1602955874 source:c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1602956003 c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\fecha.h
+
+1603056183 c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603056126 source:c:\users\cintia\desktop\1pacialbicicletas\pp1bicicletas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+	"color.h"
+
+1603051700 source:c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+
+1602951250 c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1602951225 c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\tipo.h
+
+1602951225 c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\color.h
+
+1602951319 c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\datastore.h
+
+1602951225 source:c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+
+1602955874 source:c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1602956003 c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\fecha.h
+
+1603050758 c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\servicio.h
+
+1603062633 source:c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"trabajo.h"
+	"servicio.h"
+
+1603062099 c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1602959135 source:c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+
+1602963057 source:c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+
+1603062099 source:c:\users\cintia\desktop\no usar\1pacialbicicletas\pp1bicicletas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+
+1603073752 source:c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"informes.h"
+
+1603064019 c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1602951225 c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\tipo.h
+
+1602951225 c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\color.h
+
+1603158919 c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\datastore.h
+
+1602951225 source:c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+
+1602955874 source:c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1602956003 c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\fecha.h
+
+1603152347 c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\servicio.h
+
+1603209368 source:c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"informes.h"
+
+1603062099 c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603081172 source:c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+	"informes.h"
+
+1603073212 source:c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1603209452 source:c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+
+1603205393 source:c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603203899 c:\users\cintia\desktop\parcialpractica\pp1bicicletasok primera parte\informes.h
+	"bicicleta.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+
+1603073752 source:c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"informes.h"
+
+1603064019 c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1602951225 c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\tipo.h
+
+1602951225 c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\color.h
+
+1603158919 c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\datastore.h
+
+1603220729 c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\informes.h
+	"bicicleta.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+
+1603152347 c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\servicio.h
+
+1603062099 c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1602956003 c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\fecha.h
+
+1603220390 source:c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+	"informes.h"
+
+1602955874 source:c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1603221934 source:c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"informes.h"
+
+1603081172 source:c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+	"informes.h"
+
+1603073212 source:c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1603209452 source:c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+
+1603226627 source:c:\users\cintia\desktop\ok parcial\practica informes importe\pp1bicicletas informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603073752 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"informes.h"
+
+1603064019 c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1602951225 c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\tipo.h
+
+1602951225 c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\color.h
+
+1603158919 c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\datastore.h
+
+1603238425 c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\informes.h
+	"bicicleta.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+
+1603246410 c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\servicio.h
+
+1603062099 c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1602956003 c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\fecha.h
+
+1603220390 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+	"informes.h"
+
+1602955874 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1603244780 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"informes.h"
+
+1603246410 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+	"informes.h"
+
+1603073212 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1603209452 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+
+1603248296 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok\pp1bicicletas informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603220390 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+	"informes.h"
+
+1602951225 c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\color.h
+
+1602951225 c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\tipo.h
+
+1603238425 c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\informes.h
+	"bicicleta.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+
+1603278747 c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\bicicleta.h
+	"tipo.h"
+	"color.h"
+	"clientes.h"
+
+1603246410 c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\servicio.h
+
+1603282602 c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1602956003 c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\fecha.h
+
+1602955874 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1603249448 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603246410 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+	"informes.h"
+
+1603073212 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1603278457 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+
+1603277957 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+
+1603278873 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"informes.h"
+	"clientes.h"
+
+1603277936 c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\clientes.h
+
+1603249441 source:c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"informes.h"
+
+1603249141 c:\users\cintia\desktop\ok parcial\practica informes importe - ok - cliente\pp1bicicletas informes\datastore.h
+
+1603303859 source:c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+
+1603299363 c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\clientes.h
+
+1603291697 source:c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+	"informes.h"
+
+1603291755 c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\color.h
+
+1603291739 c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\tipo.h
+
+1603292644 c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\informes.h
+	"bicicleta.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"clientes.h"
+
+1603303300 c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\bicicleta.h
+	"tipo.h"
+	"color.h"
+	"clientes.h"
+
+1603246410 c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\servicio.h
+
+1603290259 c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1602956003 c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\fecha.h
+
+1602955874 source:c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1603246410 source:c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+	"informes.h"
+
+1603073212 source:c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1603311028 source:c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"informes.h"
+	"clientes.h"
+
+1603289804 c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\datastore.h
+
+1603299079 source:c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"informes.h"
+	"clientes.h"
+
+1603292775 source:c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603290219 source:c:\users\cintia\desktop\practica informes importe - ok - cliente\pp1bicicletas informes\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+
+1603311028 source:c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"informes.h"
+	"clientes.h"
+
+1603303300 c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\bicicleta.h
+	"tipo.h"
+	"color.h"
+	"clientes.h"
+
+1603291739 c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\tipo.h
+
+1603291755 c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\color.h
+
+1603299363 c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\clientes.h
+
+1603289804 c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\datastore.h
+
+1603292644 c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\informes.h
+	"bicicleta.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"clientes.h"
+
+1603246410 c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\servicio.h
+
+1603290259 c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1602956003 c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\fecha.h
+
+1603303859 source:c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+
+1603291697 source:c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+	"informes.h"
+
+1602955874 source:c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1603292775 source:c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603299079 source:c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"informes.h"
+	"clientes.h"
+
+1603246410 source:c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+	"informes.h"
+
+1603073212 source:c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1603290219 source:c:\users\cintia\desktop\centurion.cintia.pplabi\practica informes importe - ok - cliente\pp1bicicletas informes\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+
+1603334143 source:c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"informes.h"
+	"clientes.h"
+
+1603303300 c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\bicicleta.h
+	"tipo.h"
+	"color.h"
+	"clientes.h"
+
+1603291739 c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\tipo.h
+
+1603291755 c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\color.h
+
+1603299363 c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\clientes.h
+
+1603289804 c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\datastore.h
+
+1603292644 c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\informes.h
+	"bicicleta.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"clientes.h"
+
+1603246410 c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\servicio.h
+
+1603290259 c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1602956003 c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\fecha.h
+
+1603303859 source:c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+
+1603291697 source:c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+	"informes.h"
+
+1602955874 source:c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1603311323 source:c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603299079 source:c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"informes.h"
+	"clientes.h"
+
+1603246410 source:c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+	"informes.h"
+
+1603073212 source:c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1603290219 source:c:\users\cintia\desktop\2°  agosto\lab-prog 1a\1 °parcial - labo\practica informes importe sin validar\pp1bicicletas informes\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+
+1603390472 source:c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"informes.h"
+	"clientes.h"
+
+1603303300 c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\bicicleta.h
+	"tipo.h"
+	"color.h"
+	"clientes.h"
+
+1603291739 c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\tipo.h
+
+1603291755 c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\color.h
+
+1603299363 c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\clientes.h
+
+1603289804 c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\datastore.h
+
+1603292644 c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\informes.h
+	"bicicleta.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"clientes.h"
+
+1603246410 c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\servicio.h
+
+1603290259 c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1602956003 c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\fecha.h
+
+1603303859 source:c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+
+1603388598 source:c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+	"informes.h"
+
+1602955874 source:c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1603311323 source:c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603299079 source:c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"informes.h"
+	"clientes.h"
+
+1603246410 source:c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+	"informes.h"
+
+1603073212 source:c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1603290219 source:c:\users\cintia\desktop\practica informes importe sin validar\pp1bicicletas informes\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+
+1603937485 source:c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"informes.h"
+	"clientes.h"
+
+1603936652 c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\bicicleta.h
+	"tipo.h"
+	"color.h"
+	"clientes.h"
+
+1603936652 c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\tipo.h
+
+1603936652 c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\color.h
+
+1603936652 c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\clientes.h
+
+1603936652 c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\datastore.h
+
+1603936652 c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\informes.h
+	"bicicleta.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"clientes.h"
+
+1603936652 c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\servicio.h
+
+1603936652 c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603936652 c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\fecha.h
+
+1603936652 source:c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+
+1603936652 source:c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+	"informes.h"
+
+1603936652 source:c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1603936652 source:c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603936652 source:c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"informes.h"
+	"clientes.h"
+
+1603936652 source:c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+	"informes.h"
+
+1603936652 source:c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1603936652 source:c:\users\cintia\desktop\practica\practica informes importe sin validar\pp1bicicletas informes\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+
+1606885262 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"informes.h"
+	"clientes.h"
+	"centurion.h"
+
+1606886394 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\bicicleta.h
+	"tipo.h"
+	"color.h"
+	"clientes.h"
+
+1603936652 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\tipo.h
+
+1603936652 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\color.h
+
+1606886840 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\clientes.h
+
+1603936652 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\datastore.h
+
+1603936652 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\informes.h
+	"bicicleta.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"clientes.h"
+
+1603936652 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\servicio.h
+
+1603936652 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603936652 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\fecha.h
+
+1606886153 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+
+1603936652 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+	"informes.h"
+
+1603936652 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1606887315 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1606872913 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"informes.h"
+	"clientes.h"
+
+1603936652 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+	"informes.h"
+
+1603936652 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1606887595 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+
+1606886840 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\centurion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"centurion.h"
+
+1606884819 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\1°parcial_labo1\practica\practica informes importe sin validar\pp1bicicletas informes\centurion.h
+
+1606907675 source:c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"informes.h"
+	"clientes.h"
+	"centurion.h"
+
+1606886394 c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\bicicleta.h
+	"tipo.h"
+	"color.h"
+	"clientes.h"
+
+1603936652 c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\tipo.h
+
+1603936652 c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\color.h
+
+1606886840 c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\clientes.h
+
+1603936652 c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\datastore.h
+
+1603936652 c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\informes.h
+	"bicicleta.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"clientes.h"
+
+1603936652 c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\servicio.h
+
+1606908824 c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1603936652 c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\fecha.h
+
+1606884819 c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\centurion.h
+
+1606886840 source:c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\centurion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"centurion.h"
+
+1606886153 source:c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+
+1603936652 source:c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"tipo.h"
+	"informes.h"
+
+1603936652 source:c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1606908370 source:c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+	"centurion.h"
+
+1606908438 source:c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"tipo.h"
+	"bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"informes.h"
+	"clientes.h"
+
+1603936652 source:c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+	"informes.h"
+
+1603936652 source:c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1606908391 source:c:\users\cintia\desktop\centurion.cintiapplab1 bicicleta\pp1bicicletas informes\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"fecha.h"
+	"centurion.h"
+
